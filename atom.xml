@@ -6,7 +6,7 @@
   <link href="http://qxym.art/atom.xml" rel="self"/>
   
   <link href="http://qxym.art/"/>
-  <updated>2021-10-02T06:05:31.936Z</updated>
+  <updated>2021-10-02T09:00:38.563Z</updated>
   <id>http://qxym.art/</id>
   
   <author>
@@ -17,23 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>介绍</title>
+    <title>qaq介绍</title>
     <link href="http://qxym.art/2021/10/02/%E4%BB%8B%E7%BB%8D/"/>
     <id>http://qxym.art/2021/10/02/%E4%BB%8B%E7%BB%8D/</id>
     <published>2021-10-02T06:03:36.000Z</published>
-    <updated>2021-10-02T06:05:31.936Z</updated>
+    <updated>2021-10-02T09:00:38.563Z</updated>
     
-    <content type="html"><![CDATA[<p>大家好，这是我的个人博客。欢迎各位访问(<em>^_^</em>)</p>]]></content>
+    <content type="html"><![CDATA[<p>大家好，这是我的个人博客。博客建设中，欢迎各位访问(<em>^_^</em>)</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;大家好，这是我的个人博客。欢迎各位访问(&lt;em&gt;^_^&lt;/em&gt;)&lt;/p&gt;
+    <summary type="html">&lt;p&gt;大家好，这是我的个人博客。博客建设中，欢迎各位访问(&lt;em&gt;^_^&lt;/em&gt;)&lt;/p&gt;
 </summary>
       
     
     
     
+    
+    <category term="顶置" scheme="http://qxym.art/tags/%E9%A1%B6%E7%BD%AE/"/>
     
   </entry>
   
